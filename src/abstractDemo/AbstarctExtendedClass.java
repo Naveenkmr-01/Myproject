@@ -7,6 +7,7 @@ public class AbstarctExtendedClass extends AbstractClass{
 		AbstarctExtendedClass objk = new AbstarctExtendedClass();
 		
 		System.out.println(objk.mul());
+		//test line
 	}
 
 	@Override
