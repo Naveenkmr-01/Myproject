@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/commons-email-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/commons-email-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/commons-email-1.5-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/commons-email-1.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/geckodriver-master.zip"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/org.testng.eclipse_6.12.0.201709050550.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/org.testng.source_6.12.0.r201709030044.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/org.testng_6.12.0.r201709030044.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/org.yaml.snakeyaml.source_1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/org.yaml.snakeyaml_1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/muchi/Downloads/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
